@@ -1,7 +1,0 @@
-1-Aşağıdaki kodu yorumlayınız
-
-Cevap : Bir Araba sınıfı tanımlar.__init__ metodu, nesne oluşturulurken marka ve model değerlerini atar,yani constructor görevi görür.
-bilgileri_yazdir metodu bu bilgileri ekrana yazar.
-Sonra araba1 adlı yeni bir Araba classı oluşturulur.
-Oluştururken marka ve model parametrelerini "Toyota" ve "Corolla" olarak ayarlar.
-Sonra da bilgileri_yazdir() metodu ile yazdırır.
